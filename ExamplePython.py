@@ -1,4 +1,3 @@
-
 #This is how we learned to concatenate strings in the ITF+ class.
 a = "String 1"
 b = "String 2"
